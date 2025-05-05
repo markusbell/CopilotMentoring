@@ -1,0 +1,42 @@
+{
+    "name": "Marketing FAQ Assistant",
+    "description": "Ein einfacher FAQ-Agent für Marketingfragen in Microsoft Copilot Studio.",
+    "topics": [
+        {
+            "name": "Logo-Nutzung",
+            "trigger_phrases": [
+                "Wie darf ich unser Logo verwenden?",
+                "Logo Richtlinien",
+                "Logo Nutzung"
+            ],
+            "response": "Bitte beachten Sie die Regelungen in unseren Brand Guidelines 2024, Kapitel 2."
+        },
+        {
+            "name": "Kampagnenfreigabe",
+            "trigger_phrases": [
+                "Wer muss meine Kampagne freigeben?",
+                "Kampagnenfreigabeprozess",
+                "Kampagnen Genehmigung"
+            ],
+            "response": "Kampagnen ab 5.000 € benötigen die Freigabe der Marketingleitung. Details finden Sie in 'Kampagnenfreigabe.xlsx', Reiter 'Freigabeprozess'."
+        },
+        {
+            "name": "LinkedIn-Richtlinien",
+            "trigger_phrases": [
+                "Was gilt für LinkedIn-Postings?",
+                "LinkedIn Nutzung",
+                "Social Media LinkedIn"
+            ],
+            "response": "In unseren Social Media Guidelines finden Sie Empfehlungen für Tonalität und Bildsprache auf LinkedIn."
+        },
+        {
+            "name": "Budgetanfrage",
+            "trigger_phrases": [
+                "Wie beantrage ich Marketingbudget?",
+                "Marketing Budget Antrag",
+                "Budgetformular Marketing"
+            ],
+            "response": "Bitte nutzen Sie das Antragsformular unter: [Link]. Bei Fragen wenden Sie sich an marketing@firma.de."
+        }
+    ]
+}
