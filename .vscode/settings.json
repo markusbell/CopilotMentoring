@@ -1,0 +1,7 @@
+{
+    "editor.accessibilityPageSize": 5000,
+    "files.exclude": {
+        ".vscode": true,
+        "**/.code-workspace": true
+    }
+}
